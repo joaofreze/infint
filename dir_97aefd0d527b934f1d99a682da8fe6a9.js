@@ -8,5 +8,5 @@ var dir_97aefd0d527b934f1d99a682da8fe6a9 =
     [ "InfintException.h", "infint_exception.html", [
       [ "InfintException", "class_infint_exception.html", "class_infint_exception" ]
     ] ],
-    [ "Sign.h", "_sign.html", "_sign" ]
+    [ "Sign.h", "sign.html", "sign" ]
 ];
