@@ -6,7 +6,7 @@ var dir_97aefd0d527b934f1d99a682da8fe6a9 =
     ] ],
     [ "Infint.h", "infint.html", "infint" ],
     [ "InfintException.h", "infint_exception.html", [
-      [ "InfintException", "classinfint_exception.html", "classinfint_exception" ]
+      [ "InfintException", "class_infint_exception.html", "class_infint_exception" ]
     ] ],
     [ "Sign.h", "_sign.html", "_sign" ]
 ];

@@ -1,6 +1,6 @@
 var infint =
 [
-    [ "Infint", "classinfint.html", "classinfint" ],
+    [ "Infint", "class_infint.html", "class_infint" ],
     [ "NumberToString", "infint.html#aef5046edcc476ddc8f8a7df3c59f60fc", null ],
     [ "operator!=", "infint.html#af2640ad4e039c451b934680e00a16843", null ],
     [ "operator%", "infint.html#ab5463571e95b34cec90ca95d5622754e", null ],
