@@ -114,8 +114,8 @@ var NAVTREEINDEX0 =
 "hierarchy.html":[0,2],
 "index.html":[],
 "pages.html":[],
-"structdigit_node.html":[0,0,0],
-"structdigit_node.html#a557efbb040c3fab84ea54d44cd37573e":[0,0,0,2],
-"structdigit_node.html#a7ff657dca9eb0628afdd1746acfaf270":[0,0,0,0],
-"structdigit_node.html#aef0f4c1f03e3ff434dff8c028507ddfe":[0,0,0,1]
+"struct_digit_node.html":[0,0,0],
+"struct_digit_node.html#a557efbb040c3fab84ea54d44cd37573e":[0,0,0,2],
+"struct_digit_node.html#a7ff657dca9eb0628afdd1746acfaf270":[0,0,0,0],
+"struct_digit_node.html#aef0f4c1f03e3ff434dff8c028507ddfe":[0,0,0,1]
 };

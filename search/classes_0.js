@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['digitnode',['DigitNode',['../structdigit_node.html',1,'']]]
+  ['digitnode',['DigitNode',['../struct_digit_node.html',1,'']]]
 ];
