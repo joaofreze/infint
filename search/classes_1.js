@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['infint',['Infint',['../class_infint.html',1,'']]],
-  ['infintexception',['InfintException',['../class_infint_exception.html',1,'']]]
+  ['infint',['Infint',['../classinfint.html',1,'']]],
+  ['infintexception',['InfintException',['../classinfint_exception.html',1,'']]]
 ];

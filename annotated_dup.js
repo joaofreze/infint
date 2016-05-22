@@ -1,6 +1,6 @@
 var annotated_dup =
 [
-    [ "DigitNode", "struct_digit_node.html", "struct_digit_node" ],
-    [ "Infint", "class_infint.html", "class_infint" ],
-    [ "InfintException", "class_infint_exception.html", "class_infint_exception" ]
+    [ "DigitNode", "structdigit_node.html", "structdigit_node" ],
+    [ "Infint", "classinfint.html", "classinfint" ],
+    [ "InfintException", "classinfint_exception.html", "classinfint_exception" ]
 ];

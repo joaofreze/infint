@@ -1,12 +1,12 @@
 var dir_97aefd0d527b934f1d99a682da8fe6a9 =
 [
-    [ "Digit.h", "_digit_8h.html", "_digit_8h" ],
-    [ "DigitNode.h", "_digit_node_8h.html", [
-      [ "DigitNode", "struct_digit_node.html", "struct_digit_node" ]
+    [ "Digit.h", "digit.html", "digit" ],
+    [ "DigitNode.h", "digit_node.html", [
+      [ "DigitNode", "structdigit_node.html", "structdigit_node" ]
     ] ],
-    [ "Infint.h", "_infint_8h.html", "_infint_8h" ],
-    [ "InfintException.h", "_infint_exception_8h.html", [
-      [ "InfintException", "class_infint_exception.html", "class_infint_exception" ]
+    [ "Infint.h", "infint.html", "infint" ],
+    [ "InfintException.h", "infint_exception.html", [
+      [ "InfintException", "classinfint_exception.html", "classinfint_exception" ]
     ] ],
-    [ "Sign.h", "_sign_8h.html", "_sign_8h" ]
+    [ "Sign.h", "_sign.html", "_sign" ]
 ];
