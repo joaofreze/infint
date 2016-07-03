@@ -65,8 +65,8 @@ class Infint {
   friend         ostream & operator << ( ostream &oss, const Infint &infint );
   		  const  Infint  & operator -- ();
 		  const  Infint  & operator ++ ();
-          const  Infint  & operator -- ( int );
-		  const  Infint  & operator ++ ( int );
+          const  Infint    operator -- ( int );
+		  const  Infint    operator ++ ( int );
 		  const  Infint  & operator =  ( const Infint &infint );
 		  const  Infint  & operator =  ( const string &s );
 		  const  Infint  & operator =  ( const char*   c );
@@ -1407,9 +1407,10 @@ inline const Infint operator /= ( Infint &a, const Infint &b ){
  *  @return  Infint
  *
  */
-inline const Infint& Infint::operator++ ( int ) {
+inline const Infint Infint::operator++ ( int ) {
+    Infint result = *this;
     ++(*this);
-    return (*this);
+    return result;
 }
 
 /**
@@ -1419,8 +1420,10 @@ inline const Infint& Infint::operator++ ( int ) {
  *  @return  Infint
  *
  */
-inline const Infint & Infint::operator-- ( int ) {
+inline const Infint Infint::operator-- ( int ) {
+    Infint result = *this;
     --(*this);
-    return (*this);
+    return result;
+
 }
 #endif
